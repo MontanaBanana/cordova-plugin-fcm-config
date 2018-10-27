@@ -1,3 +1,42 @@
 {
-  // dummy google-servies file !! replace with your configuration
+  "project_info": {
+    "project_number": "204490340504",
+    "firebase_url": "https://montana-banana-utax.firebaseio.com",
+    "project_id": "montana-banana-utax",
+    "storage_bucket": "montana-banana-utax.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204490340504:android:6ef6fdd0f7975b37",
+        "android_client_info": {
+          "package_name": "com.metikmarketing.montanabanana"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "204490340504-it48j8omfr0qejh8vu0nh8puqmd9a688.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMu5poOy0SIhDnIXMf7WPdkNfMatYJ1zI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
 }
